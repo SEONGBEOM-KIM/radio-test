@@ -1,5 +1,5 @@
 {
-    "name": "Radio Test",
+    "name": "수신부",
     "description": "",
     "dependencies": {
         "core": "*",
